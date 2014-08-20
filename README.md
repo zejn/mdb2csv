@@ -1,8 +1,13 @@
 
 mdb2csv
--------
+=======
 
-Requirements:
+mdb2csv will generate CSV files from MDB databases with corresponding
+PostgreSQL CREATE TABLE statements for convenience.
+
+
+Requirements
+------------
 
 - python for windows
 - pypyodbc
